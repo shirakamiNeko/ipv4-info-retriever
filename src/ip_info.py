@@ -71,7 +71,7 @@ class GetDetailIPv4Info:
     time : datetime.datetime
         The current UTC time in the IP address's timezone.
 
-    timezone : str
+    timezone : pytz.timezone
         The timezone associated with the IP address.
 
     bogon : bool
