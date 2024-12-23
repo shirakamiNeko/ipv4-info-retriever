@@ -1,4 +1,4 @@
-# IPv4 GET
+# IPv4 Retrieve
 
 A Python wrapper that retrieves detailed information about an IPv4 address using the [ipinfo.io](https://ipinfo.io/) API. 
 
