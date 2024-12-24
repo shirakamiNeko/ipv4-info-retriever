@@ -28,10 +28,10 @@ Provides information such as the IP's location, timezone, organization, city, an
 ## Usage
 
 ```python
-from src.ip_info import GetDetailIPv4Info
+from src.ip_info import IPv4InfoRetriever
 
 # Example: Fetch details for an IP address
-ip_info = GetDetailIPv4Info("8.8.8.8")
+ip_info = IPv4InfoRetriever("8.8.8.8")
 
 print(f"IP Address: {ip_info.ip}")
 print(f"City: {ip_info.city}")
