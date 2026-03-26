@@ -16,7 +16,7 @@ Provides information such as the IP's location, timezone, organization, city, an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shirakamiNeko/IPv4InfoRetriever.git
+   git clone https://github.com/Hoshinowo-Yuki/IPv4InfoRetriever.git
    ```
 
 2. Install dependencies:
